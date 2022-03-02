@@ -1,0 +1,19 @@
+{
+  "name": "fetch-unit-testing",
+  "version": "1.0.0",
+  "description": "Practice Fetch Testing\r Create a new repo called: \"Fetch-Unit-Testing\"\r Clone the repo into your jsDev folder(directory)\r npm init Enter, Enter, Enter, Enter, Enter...\r npm install -g mocha\r Build a simple GUI app that uses this api: https://punkapi.com/documentation/v2\r Use the previous video to walk through building two tests for this simple app; 1 for a single beer and 1 for 10 beers\r You should end up with a simple GUI app that has at least two unit tests injected into your fetch request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosalynS78/Fetch-Unit-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RosalynS78/Fetch-Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/RosalynS78/Fetch-Unit-Testing#readme"
+}
